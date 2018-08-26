@@ -1,0 +1,14 @@
+ul{
+	padding-left: 0px;
+}
+li{
+	list-style-type: none;
+	display: inline-block;
+	margin-right: 30px;
+}
+p{
+	margin: 0px;
+}
+.s_label{
+	margin-top: 20px;
+}
