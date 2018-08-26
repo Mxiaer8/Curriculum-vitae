@@ -6,6 +6,7 @@ html,body{
 	margin: 0px;
 	overflow: hidden;
 	background-color: #f5f5f5;
+	padding: 3px;
 }
 #content{
 	background-color: white;
@@ -48,4 +49,7 @@ p{
 }
 ul{
 	padding-left: 0px;
+}
+strong{
+	margin-right: 8px;	
 }
